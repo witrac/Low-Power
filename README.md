@@ -6,7 +6,9 @@ Version: 1.90
 Date: 06-02-2018
 
 Devices Supported:
+* ATMega88
 * ATMega168
+* ATMega168P
 * ATMega328P
 * ATMega32U4
 * ATMega644P
